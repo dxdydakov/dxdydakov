@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> Welcome to my Github profile! </h1>
-  <img src='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'/>
+  <img src='https://media0.giphy.com/media/YLcDZMQcemm6RdgoeL/giphy.gif?cid=ecf05e47uuj31ir7w3asgfz26616vfpxf8vsi2gfcv34zua8&rid=giphy.gif&ct=g/>
 </div>
 
 ### My name is Dudakov Alexey. 
