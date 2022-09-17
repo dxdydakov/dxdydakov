@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> 🌟ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ!🌟 </h1>
+  <h1> 🌟W͟͟͟͞͞͞e͟͟͟͞͞͞l͟͟͟͞͞͞c͟͟͟͞͞͞o͟͟͟͞͞͞m͟͟͟͞͞͞e͟͟͟͞͞͞ t͟͟͟͞͞͞o͟͟͟͞͞͞ m͟͟͟͞͞͞y͟͟͟͞͞͞ G͟͟͟͞͞͞i͟͟͟͞͞͞t͟͟͟͞͞͞h͟͟͟͞͞͞u͟͟͟͞͞͞b͟͟͟͞͞͞ p͟͟͟͞͞͞r͟͟͟͞͞͞o͟͟͟͞͞͞f͟͟͟͞͞͞i͟͟͟͞͞͞l͟͟͟͞͞͞e͟͟͟͞͞͞!🌟 </h1>
   <img src='https://media4.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif?cid=ecf05e47vqbb4bixqkf499pvvirbne32fl772tfqxa1kn3u1&rid=giphy.gif&ct=g'/>
 </div>
 
