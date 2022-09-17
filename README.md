@@ -7,5 +7,3 @@
 - 📚 I am a student at Moscow Institute of Physics and Technology.
 - 👨‍💻 I am currently studying Machine Learning in bioinformatics.
 - 📫 How to reach me: dudakov.a@phystech.edu.
-
-[![](https://img.shields.io/badge/-@dxdydakov-%23181717?style=flat-square&logo=github)](https://github.com/dxdydakov)
