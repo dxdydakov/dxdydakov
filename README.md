@@ -4,3 +4,8 @@
   <img src="https://media.giphy.com/media/NuxRC8DAnC62qWySWz/giphy.gif"/>
   
 </div>
+
+### My name is Dudakov Alexey. 
+📚 I am a studenta at Moscow Institute of Physics and Technology
+👨‍💻 I am currently studying Machine Learning in bioinformatics
+📫 How to reach me: dudakov.a@phystech.edu
