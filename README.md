@@ -4,7 +4,7 @@
 </div>
 
 <div>
-    <img src='https://i.gifer.com/Vho.gif'/>
+    <img src='https://i.gifer.com/Vho.mp4'/>
 </div>
 
 ### My name is Dudakov Alexey. 
