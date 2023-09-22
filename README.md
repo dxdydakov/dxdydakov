@@ -5,5 +5,5 @@
 
 ### My name is Dudakov Alexey. 
 - 📚 I am a student at Moscow Institute of Physics and Technology.
-- 👨‍💻 I am currently studying Bioinformatics and Machine Learning.
+- 👨‍💻 I am interested in Bioinformatics and Machine Learning.
 - 📫 dudakov.a@phystech.edu.
