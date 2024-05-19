@@ -1,9 +1,15 @@
-<div id="header" align="center">
-  <h1> 👋 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! </h1>
-  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxpc250MG5weXA5MHVzeDlma2poajJ1NzdpbW82YXFydjlzNXRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif'/>
-</div>
+### Hi there 👋, My name is Alexey
+#### I am a MIPT student. 
+![I am a MIPT student. ](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNtOWtoMzg2bWJjOHRhMXQ2ejYzbnB3cTY4ZzljYWVmdm90NXk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJPSFNLmADueHvzoZ8/giphy.gif)
 
-### My name is Dudakov Alexey. 
-- 📚 I am a student at Moscow Institute of Physics and Technology.
-- 👨‍💻 I am interested in Bioinformatics and Machine Learning.
-- 📫 dudakov.a@phystech.edu.
+
+Skills: *Python / ML / Math and statistics.*
+
+- 🔭 I’m currently working on *different bioinformatics tasks.* 
+- 🌱 I’m currently learning NLP and CV. 
+- 📫 How to reach me: dudakov.a@phystech.edu 
+- ⚡ Fun fact: I love dumplings 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dxdydakov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](vk.com/dxdydakov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](dxdydakov)  
+
