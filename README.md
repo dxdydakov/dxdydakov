@@ -1,11 +1,12 @@
 ### Hi there 👋, My name is Alexey
 #### I am a MIPT student. 
-![I am a MIPT student. ](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNtOWtoMzg2bWJjOHRhMXQ2ejYzbnB3cTY4ZzljYWVmdm90NXk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJPSFNLmADueHvzoZ8/giphy.gif)
+![I am a MIPT student. ](https://github.com/dxdydakov/dxdydakov/assets/108963348/1161b032-6ab3-4aba-aca1-6dfbff71653e)
 
 
 Skills: *Python / ML / Math and statistics.*
 
 - 🔭 I’m currently working on *different bioinformatics tasks.* 
+
 - 🌱 I’m currently learning NLP and CV. 
 - 📫 How to reach me: dudakov.a@phystech.edu 
 - ⚡ Fun fact: I love dumplings 
