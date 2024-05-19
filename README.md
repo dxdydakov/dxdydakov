@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Alexey
 #### I am a MIPT student. 
-![](https://github.com/dxdydakov/dxdydakov/assets/108963348/1161b032-6ab3-4aba-aca1-6dfbff71653e) >
+![](https://github.com/dxdydakov/dxdydakov/assets/108963348/1161b032-6ab3-4aba-aca1-6dfbff71653e)
 
 
 Skills: *Python / ML / Math and statistics.*
